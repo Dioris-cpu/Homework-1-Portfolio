@@ -95,13 +95,37 @@ ul li a:hover {
 }
 
 h2 {
-    border-bottom: 2px solid #cccccc;
-    color: teal;   
+    border-bottom: 2px solid #cccccc ;
+    color: teal;
+    margin-bottom: 20px;   
 }
 
 p {
     line-height: 30px;
+    color: #777777;
 }
+
+#button1{
+    margin-right: 100px;
+    border: solid white;
+    border-width: 0 4px;
+    border-radius: 0%;
+    background: teal;
+    color: white;
+    font-size: 18px;
+    padding: 20px;
+}
+
+input {
+width: 100%;
+padding: 12px 20px;
+margin: 29px 0;
+display: inline-block;
+border: 1px solid #ccc;
+border-radius: 4px;
+box-sizing: border-box;
+}
+
 
 
 
