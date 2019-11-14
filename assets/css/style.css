@@ -42,6 +42,7 @@ nav {
     font-size: 20px;
     margin-left: 10px;
     background-color: teal;
+       
 }
 
 ul {
@@ -117,14 +118,75 @@ p {
 }
 
 input {
-width: 100%;
-padding: 12px 20px;
-margin: 29px 0;
-display: inline-block;
-border: 1px solid #ccc;
-border-radius: 4px;
-box-sizing: border-box;
+    width: 100%;
+    padding: 12px 20px;
+    margin: 29px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
 }
+
+.div1 {
+    border: 1px solid grey;
+    width: 200px;
+    height: 150px;
+    padding: 60px;
+    margin-bottom: 10px;
+    float: right;
+    background-image: url(../images/TheSun.jpg);
+    border-bottom: 20px solid teal; 
+    
+}
+
+.div2 {
+    border: 1px solid grey;
+    width: 200px;
+    height: 150px;
+    padding: 60px;
+    margin-bottom: 10px;
+    background-image: url(../images/guy\ holding\ ipad.png);
+    border-bottom: 20px solid teal;
+
+}
+
+.div3 {
+    border: 1px solid grey;
+    width: 200px;
+    height: 150px;
+    padding: 60px;
+    margin-bottom: 10px;
+    float: right;
+    background-image: url(../images/Targayen\ shred.jpg);
+    border-bottom: 20px solid teal;
+
+}
+
+.div4 {
+    border: 1px solid grey;
+    width: 200px;
+    height: 150px;
+    padding: 60px;
+    margin-bottom: 10px;
+    background-image: url(../images/andromedagalaxy.jpg) ;
+    border-bottom: 20px solid teal;
+
+
+}
+
+.div5 {
+    border: 1px solid grey;
+    width: 200px;
+    height: 150px;
+    padding: 60px;
+    margin-bottom: 10px;
+    background-image: url(../images/alantics.jpeg);
+    border-bottom: 20px solid teal;
+
+
+}
+
+
 
 
 
