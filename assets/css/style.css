@@ -41,8 +41,16 @@ nav {
     letter-spacing: 5px;
     font-size: 20px;
     margin-left: 10px;
+    position: absolute;
     background-color: teal;
+
        
+}
+
+.top1 {
+    position: relative;
+    border-top: 72px solid teal;
+
 }
 
 ul {
@@ -135,7 +143,8 @@ input {
     margin-bottom: 10px;
     float: right;
     background-image: url(../images/TheSun.jpg);
-    border-bottom: 20px solid teal; 
+    border-bottom: 50px solid teal; 
+    position: relative;
     
 }
 
@@ -146,7 +155,8 @@ input {
     padding: 60px;
     margin-bottom: 10px;
     background-image: url(../images/guy\ holding\ ipad.png);
-    border-bottom: 20px solid teal;
+    border-bottom: 50px solid teal;
+    position: relative;
 
 }
 
@@ -158,7 +168,7 @@ input {
     margin-bottom: 10px;
     float: right;
     background-image: url(../images/Targayen\ shred.jpg);
-    border-bottom: 20px solid teal;
+    border-bottom: 50px solid teal;
 
 }
 
@@ -169,7 +179,7 @@ input {
     padding: 60px;
     margin-bottom: 10px;
     background-image: url(../images/andromedagalaxy.jpg) ;
-    border-bottom: 20px solid teal;
+    border-bottom: 50px solid teal;
 
 
 }
@@ -181,10 +191,57 @@ input {
     padding: 60px;
     margin-bottom: 10px;
     background-image: url(../images/alantics.jpeg);
-    border-bottom: 20px solid teal;
+    border-bottom: 50px solid teal;
 
 
 }
+
+.Hangman {
+    position: absolute;
+    color: #eee;
+    bottom: -25%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+  
+}
+
+.RPG {
+    position: absolute;
+    color: #eee;
+    bottom: -25%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.rock {
+    position: absolute;
+    color: #eee;
+    bottom: -18%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+    
+
+
+}
+
+.trivia {
+    position: absolute;
+    color: #eee;
+    bottom: 10%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+
+
+}
+
+
+.rugets {
+    position: absolute;
+    color: #eee;
+    bottom: 10%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-right: 4px;
+}
+
 
 
 
