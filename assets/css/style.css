@@ -42,14 +42,16 @@ nav {
     font-size: 20px;
     margin-left: 10px;
     position: absolute;
-    background-color: teal;
+    background-color: #4aaaa5;
+    margin-top: -4px;
 
        
 }
 
 .top1 {
     position: relative;
-    border-top: 72px solid teal;
+    border-top: 72px solid #4aaaa5;
+    margin-top: 2px;
 
 }
 
@@ -79,7 +81,7 @@ ul li a {
 
 ul li a:hover {
     
-    color: teal;    
+    color: #4aaaa5;    
    
 }
 
@@ -100,12 +102,12 @@ ul li a:hover {
     background-color:#666666;
     position: fixed;
     bottom: 0%;
-    border-top: 4px solid teal;
+    border-top: 4px solid #4aaaa5;
 }
 
 h2 {
     border-bottom: 2px solid #cccccc ;
-    color: teal;
+    color: #4aaaa5;
     margin-bottom: 20px;   
 }
 
@@ -115,14 +117,16 @@ p {
 }
 
 #button1{
-    margin-right: 100px;
+    margin-right: 184px;
+    margin-top: 0px;
     border: solid white;
-    border-width: 0 4px;
+    border-width: 0 184px;
     border-radius: 0%;
-    background: teal;
+    background: #4aaaa5;
     color: white;
     font-size: 18px;
     padding: 20px;
+    float: right ;
 }
 
 input {
@@ -143,7 +147,7 @@ input {
     margin-bottom: 10px;
     float: right;
     background-image: url(../images/TheSun.jpg);
-    border-bottom: 50px solid teal; 
+    border-bottom: 50px solid #4aaaa5; 
     position: relative;
     
 }
@@ -155,7 +159,7 @@ input {
     padding: 60px;
     margin-bottom: 10px;
     background-image: url(../images/guy\ holding\ ipad.png);
-    border-bottom: 50px solid teal;
+    border-bottom: 50px solid #4aaaa5;
     position: relative;
 
 }
@@ -168,7 +172,7 @@ input {
     margin-bottom: 10px;
     float: right;
     background-image: url(../images/Targayen\ shred.jpg);
-    border-bottom: 50px solid teal;
+    border-bottom: 50px solid #4aaaa5;
 
 }
 
@@ -179,7 +183,7 @@ input {
     padding: 60px;
     margin-bottom: 10px;
     background-image: url(../images/andromedagalaxy.jpg) ;
-    border-bottom: 50px solid teal;
+    border-bottom: 50px solid #4aaaa5;
 
 
 }
@@ -191,7 +195,7 @@ input {
     padding: 60px;
     margin-bottom: 10px;
     background-image: url(../images/alantics.jpeg);
-    border-bottom: 50px solid teal;
+    border-bottom: 50px solid #4aaaa5;
 
 
 }
@@ -201,6 +205,7 @@ input {
     color: #eee;
     bottom: -25%;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 14px;
 
   
 }
@@ -210,6 +215,7 @@ input {
     color: #eee;
     bottom: -25%;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 14px;
 }
 
 .rock {
@@ -217,6 +223,9 @@ input {
     color: #eee;
     bottom: -18%;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 14px;
+    margin-left: -18px;
+
 
     
 
@@ -228,6 +237,8 @@ input {
     color: #eee;
     bottom: 10%;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 14px;
+
 
 
 
@@ -239,7 +250,9 @@ input {
     color: #eee;
     bottom: 10%;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    margin-right: 4px;
+    margin-left: -18px;
+    font-size: 14px;
+
 }
 
 
